@@ -14,7 +14,7 @@
     <java.version>1.8</java.version>
     <maven.version>3.0.5</maven.version>
     <junit.version>4.11</junit.version>
-1    <slf4j.version>1.7.5</slf4j.version>
+    <slf4j.version>1.7.5</slf4j.version>
     <log4j.version>1.2.17</log4j.version>
     <common.io.version>2.5</common.io.version>
     <common.lang.version>3.5</common.lang.version>
@@ -268,6 +268,12 @@
       <version>${avro.version}</version>
       <scope>provided</scope>
     </dependency>
+      <dependency>
+          <groupId>junit</groupId>
+          <artifactId>junit</artifactId>
+          <version>4.12</version>
+          <scope>test</scope>
+      </dependency>
   </dependencies>
 
   <build>
