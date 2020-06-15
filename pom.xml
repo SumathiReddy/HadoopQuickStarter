@@ -19,7 +19,7 @@
     <common.io.version>2.5</common.io.version>
     <common.lang.version>3.5</common.lang.version>
     <commons.cli.version>1.4</commons.cli.version>
-    <commons.collections.version>3.2.1</commons.collections.version>
+    <commons.collections.version>3.2.2</commons.collections.version>
     <hadoop.version>2.6.0-cdh5.12.1</hadoop.version>
     <htrace.version>4.0.1-incubating</htrace.version>
     <hbase.version>1.2.0-cdh5.12.1</hbase.version>
