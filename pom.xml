@@ -27,7 +27,7 @@
     <spark-avro.version>4.0.0</spark-avro.version>
     <spark-xml.version>0.4.1</spark-xml.version>
     <lombok.version>1.16.20</lombok.version>
-    <jackson.version>2.9.5</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
     <avro.version>1.7.6-cdh5.12.1</avro.version>
 
     <maven-clean-plugin.version>3.1.0</maven-clean-plugin.version>
